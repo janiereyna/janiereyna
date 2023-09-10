@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **UNT-rideshare**
 
-- 🌱 I’m currently learning **MOSA*
+- 🌱 I’m currently learning *MOSA*
 
 - 📫 How to reach me **janieareyna@gmail.com**
 
