@@ -1,5 +1,5 @@
 <h1 align="center">Janie Reyna</h1>
-<h3 align="center">Designer, Consultant, Creator</h3>
+<h3 align="center">Engineer, Designer, Developer</h3>
 
 - 🔭 I’m currently working on **UNT-rideshare**
 
